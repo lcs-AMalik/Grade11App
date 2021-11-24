@@ -52,7 +52,8 @@
 			isa = PBXGroup;
 			children = (
 				9070E623274EA04E001DD3C8 /* NameGameApp.swift */,
-				9070E625274EA04E001DD3C8 /* ContentView.swift */,
+				9070E632274EA097001DD3C8 /* Model */,
+				9070E631274EA08A001DD3C8 /* Views */,
 				9070E627274EA057001DD3C8 /* Assets.xcassets */,
 				9070E629274EA057001DD3C8 /* Preview Content */,
 			);
@@ -65,6 +66,21 @@
 				9070E62A274EA057001DD3C8 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9070E631274EA08A001DD3C8 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				9070E625274EA04E001DD3C8 /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		9070E632274EA097001DD3C8 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
